@@ -7,10 +7,8 @@ namespace Quatro_projeto
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
-
-            Console.WriteLine("Bom dia!");
-
             Console.WriteLine("Como vc está hoje?");
+            Console.WriteLine("Tenha uma bom dia!");
 
             Console.ReadLine();
         }
